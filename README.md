@@ -1,7 +1,7 @@
 <h1 align="center">Илья | PerKyyling</h1>
 
 <p align="center">
-  <em>10-й класс | Физика + Программирование + Электроника</em>
+  <em>10-й класс | Физика | Программирование | Электроника</em>
 </p>
 
 <p align="center">
@@ -27,14 +27,6 @@
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,flask,docker,redis&theme=dark)](https://skillicons.dev)
-
-## Статистика GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PerKyyling&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerKyyling&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## Опыт проектов
 
