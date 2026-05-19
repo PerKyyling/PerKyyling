@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Ilyauiiii">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/Ilyauiiii" target="_blank">
+    <img src="https://img.shields.io/badge/@Ilyauiiii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:ilya_k0n0val0v@mail.ru">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+  <a href="mailto:ilya_k0n0val0v@mail.ru" target="_blank">
+    <img src="https://img.shields.io/badge/ilya_k0n0val0v- D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
   </a>
 </p>
 
