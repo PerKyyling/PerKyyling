@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://t.me/Ilyauiiii" target="_blank">
-    <img src="https://img.shields.io/badge/@Ilyauiiii-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-@Ilyauiiii-26A5E4?logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:ilya_k0n0val0v@mail.ru" target="_blank">
-    <img src="https://img.shields.io/badge/ilya_k0n0val0v- D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail">
+    <img src="https://img.shields.io/badge/Mail-ilya_k0n0val0v%40mail.ru-D14836?logo=gmail&logoColor=white" alt="Mail">
   </a>
 </p>
 
