@@ -26,6 +26,8 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,flask,docker,redis&theme=dark)](https://skillicons.dev)
+
 ## Статистика GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PerKyyling&show_icons=true&count_private=true)
