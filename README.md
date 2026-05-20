@@ -45,6 +45,7 @@
 Поддерживаются одиночный режим и PvP.
 
 **Стек:** Python, Flask, Docker, Redis, ORM, JS/CSS/HTML
+
 **Ссылка** "https://github.com/PerKyyling/AvailOlimp"
 
 ---
