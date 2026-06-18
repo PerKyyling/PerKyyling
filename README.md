@@ -1,6 +1,6 @@
 # Добро пожаловать на мой Github!
 
-Илья | 10-й класс
+Илья
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Ilyauiiii-26A5E4?logo=telegram&logoColor=white)](https://t.me/Ilyauiiii)
 [![Mail](https://img.shields.io/badge/Mail-ilya_k0n0val0v%40mail.ru-D14836?logo=gmail&logoColor=white)](mailto:ilya_k0n0val0v@mail.ru)
@@ -8,10 +8,7 @@
 ---
 
 ## О себе
-
-Пилю проекты на стыке электроники и софта.
-Стараюсь не уходить в отдельный IT или физику, для решения задач совмещаю два мощнейших инструмента.
-Люблю спорт, олимпиады и интересные задачи.
+занимаюсь технологиями, проектами и наукой
 
 ---
 
